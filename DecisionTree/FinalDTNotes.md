@@ -1,24 +1,5 @@
-# 🌳 Decision Trees — Complete Master Notes
-### From "I know nothing" to "I can crack interviews and use it in production"
-
+# 🌳 Decision Trees — Complete 
 ---
-
-## 📖 How to read this document
-
-Every hard word will be explained like this:
-
-> **Word**
-> Simple meaning: (in very easy English)
-> Example: (a tiny, easy example)
-> Why we need it: (the reason this thing exists)
-> How it works: (the actual working)
-> Where it is useful: (real life use)
-
-No jumping straight into big words. We build up slowly, like climbing stairs one step at a time.
-
----
-
-# PART 1 — THE BIG PICTURE (Beginner Level)
 
 ## 1.1 What is a Decision Tree? (No math, just the idea)
 
