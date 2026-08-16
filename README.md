@@ -1,4 +1,6 @@
 
 # GradientForge
 
-THE FULL IMPLEMENTATION OF TRADITIONAL ML LIBRARY FROM SCRATCH IN PYTHON
+    All machine learning algorithm 
+    maths 
+    scratch implementation 
