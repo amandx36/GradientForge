@@ -1,4 +1,4 @@
-# 📘 Complete NumPy Notes (Simple + Easy)
+#  Complete NumPy Notes (Simple + Easy)
 
 > Sab kuch ek hi file mein — easy language, seedha samajh aane wala. Hinglish + simple examples.
 
@@ -430,7 +430,7 @@ print(time.time() - start)
 
 ---
 
-## 🎯 Quick Cheat Sheet
+##  Quick Cheat Sheet
 
 | Kaam | Function |
 |---|---|
@@ -448,7 +448,7 @@ print(time.time() - start)
 
 ---
 
-## 📝 Quick Self-Test
+##  Quick Self-Test
 
 1. `axis=0` aur `axis=1` mein kya difference hai?
 2. `view` aur `copy` mein kya farak hai?
@@ -468,5 +468,3 @@ print(time.time() - start)
 </details>
 
 ---
-
-**Ye poora NumPy notes ek hi file mein ho gaya bhai! Ab agar Pandas bhi chahiye isi easy style mein, bol dena — wo bhi bana dunga.** 🔥
